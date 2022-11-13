@@ -20,7 +20,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/arncv/My-Little-Happy-Place">
-    <img src="assets/img/brand/BusinessShip.png" alt="Logo" width="300" height="240">
+    <img src="logo.png" alt="Logo" width="300" height="240">
   </a>
 
 <h3 align="center">My Little Happy Place</h3>
@@ -67,7 +67,7 @@ This has a very minimal interface as well as aesthetic look to it.
 
 Everyone is welcome to my little happy place! :) 
 
-<img src="logo.png" alt="Logo" width="941" height="444.1">
+
 
 
 ## How we built it
