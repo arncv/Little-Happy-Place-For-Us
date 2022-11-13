@@ -19,23 +19,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/arncv/My-Little-Happy-Place">
+  <a href="https://github.com/arncv/Little-Happy-Place-For-Us">
     <img src="logo.png" alt="Logo" width="300" height="240">
   </a>
 
-<h3 align="center">My Little Happy Place</h3>
+<h3 align="center">Little Happy Place For Us</h3>
 
   <p align="center">
-    my little happy place where i can escape from the world
+     little happy place where people can escape from the world and just be happy :)
     <br />
     <a href=""><strong>Demo Video Link! »</strong></a>
     <br />
     <br />
     <a href="">Devpost Link</a>
     ·
-    <a href="https://github.com/arncv/My-Little-Happy-Place/issues">Report Bug</a>
+    <a href="https://github.com/arncv/Little-Happy-Place-For-Us/issues">Report Bug</a>
     ·
-    <a href="https://github.com/arncv/My-Little-Happy-Place/issues">Request Feature</a>
+    <a href="https://github.com/arncv/Little-Happy-Place-For-Us/issues">Request Feature</a>
   </p>
 </div>
 
@@ -65,7 +65,7 @@ I then decided to make a minimal & non-overwhelming tool which aids people suffe
 
 This has a very minimal interface as well as aesthetic look to it.
 
-Everyone is welcome to my little happy place! :) 
+Everyone is welcome to our little happy place! :) 
 
 
 
@@ -93,13 +93,13 @@ Everyone is welcome to my little happy place! :)
  * sharpened our skills in HTML5, CSS3 & JavaScript.
 
 
-## What's next for Business Ship
+## What's next for Little Happy Place For Us 
  * Introducing a chatbot to connect with other people
  * Nothing else, it is perfect as it is :)
 
 
 
-See the [open issues](https://github.com/arncv/My-Little-Happy-Place/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/arncv/Little-Happy-Place-For-Us/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -137,7 +137,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Arnav Goel  - [@arnvgl](https://twitter.com/arnvgl) - arnvgl@pm.me
 
-Project Link: [https://github.com/arncv/My-Little-Happy-Place](https://github.com/arncv/My-Little-Happy-Place)
+Project Link: [https://github.com/arncv/Little-Happy-Place-For-Us](https://github.com/arncv/Little-Happy-Place-For-Us)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -146,7 +146,7 @@ Project Link: [https://github.com/arncv/My-Little-Happy-Place](https://github.co
 ## Our ♥️ Contributors
 
 <a href="https://github.com/refinedev/refine/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=arncv/My-Little-Happy-Place" />
+  <img src="https://contrib.rocks/image?repo=arncv/Little-Happy-Place-For-Us" />
 </a>
 
 
@@ -161,16 +161,16 @@ Project Link: [https://github.com/arncv/My-Little-Happy-Place](https://github.co
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/arncv/My-Little-Happy-Place.svg?style=for-the-badge
-[contributors-url]: https://github.com/arncv/My-Little-Happy-Place/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/arncv/My-Little-Happy-Place.svg?style=for-the-badge
-[forks-url]: https://github.com/arncv/My-Little-Happy-Place/network/members
-[stars-shield]: https://img.shields.io/github/stars/arncv/My-Little-Happy-Place.svg?style=for-the-badge
-[stars-url]:https://github.com/arncv/My-Little-Happy-Place/stargazers
-[issues-shield]: https://img.shields.io/github/issues/arncv/My-Little-Happy-Place.svg?style=for-the-badge
-[issues-url]: https://github.com/arncv/My-Little-Happy-Place/issues
-[license-shield]: https://img.shields.io/github/license/arncv/My-Little-Happy-Place.svg?style=for-the-badge
-[license-url]: https://github.com/arncv/My-Little-Happy-Place/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/arncv/Little-Happy-Place-For-Us.svg?style=for-the-badge
+[contributors-url]: https://github.com/arncv/Little-Happy-Place-For-Us/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/arncv/Little-Happy-Place-For-Us.svg?style=for-the-badge
+[forks-url]: https://github.com/arncv/Little-Happy-Place-For-Us/network/members
+[stars-shield]: https://img.shields.io/github/stars/arncv/Little-Happy-Place-For-Us.svg?style=for-the-badge
+[stars-url]:https://github.com/arncv/Little-Happy-Place-For-Us/stargazers
+[issues-shield]: https://img.shields.io/github/issues/arncv/Little-Happy-Place-For-Us.svg?style=for-the-badge
+[issues-url]: https://github.com/arncv/Little-Happy-Place-For-Us/issues
+[license-shield]: https://img.shields.io/github/license/arncv/Little-Happy-Place-For-Us.svg?style=for-the-badge
+[license-url]: https://github.com/arncv/Little-Happy-Place-For-Us/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/arnvgl
 [product-screenshot]: screenshot.png
