@@ -28,10 +28,10 @@
   <p align="center">
      little happy place where people can escape from the world and just be happy :)
     <br />
-    <a href=""><strong>Demo Video Link! »</strong></a>
+    <a href="https://youtu.be/KmDp7jWLLdc"><strong>Demo Video Link! »</strong></a>
     <br />
     <br />
-    <a href="">Devpost Link</a>
+    <a href="https://devpost.com/software/little-happy-place-for-us">Devpost Link</a>
     ·
     <a href="https://github.com/arncv/Little-Happy-Place-For-Us/issues">Report Bug</a>
     ·
