@@ -20,7 +20,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/arncv/Little-Happy-Place-For-Us">
-    <img src="logo.png" alt="Logo" width="300" height="240">
+    <img src="logoo.png" alt="Logo" width="300" height="240">
   </a>
 
 <h3 align="center">Little Happy Place For Us</h3>
